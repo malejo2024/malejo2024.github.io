@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Luis Mendoza
-  pic: 1
+  pic: http://graph.facebook.com/neftali.yagua/picture?width=225
   position: Lead Designer
   social:
     - title: twitter
@@ -26,7 +26,7 @@ people:
       url: #
 
 - name: Emmanuel Salas
-  pic: 2
+  pic: http://graph.facebook.com/neftali.yagua/picture?width=225
   position: Lead Marketer
   social:
     - title: twitter
@@ -37,7 +37,7 @@ people:
       url: #
 
 - name: Gabriel Suárez
-  pic: 3
+  pic: http://graph.facebook.com/gabriel.s.linares.9/picture?width=225
   position: Lead Developer
   social:
     - title: twitter
