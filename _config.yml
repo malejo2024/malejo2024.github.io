@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Omar Yagua
-  pic: http://graph.facebook.com/Alfahman/picture?width=225&amp;height=255
+  pic: https://graph.facebook.com/Alfahman/picture?width=225&amp;height=255
   position: Líder de planificación
   social:
     - title: twitter
@@ -26,7 +26,7 @@ people:
       url: #
 
 - name: Lisbeth Parraga
-  pic: http://graph.facebook.com/PARRAGALISBETH/picture?width=225&amp;height=255
+  pic: https://graph.facebook.com/PARRAGALISBETH/picture?width=225&amp;height=255
   position: Líder de logística
   social:
     - title: twitter
@@ -37,7 +37,7 @@ people:
       url: #
 
 - name: Gabriel Suárez
-  pic: http://graph.facebook.com/gabriel.s.linares.9/picture?width=225&amp;height=255
+  pic: https://graph.facebook.com/gabriel.s.linares.9/picture?width=225&amp;height=255
   position: Líder de desarrollo
   social:
     - title: twitter
