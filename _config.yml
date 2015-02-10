@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Luis Mendoza
-  pic: http://graph.facebook.com/neftali.yagua/picture?width=225
-  position: Lead Designer
+- name: Omar Yagua
+  pic: http://graph.facebook.com/Alfahman/picture?width=225&amp;height=255
+  position: Líder de planificación
   social:
     - title: twitter
       url: #
@@ -26,8 +26,8 @@ people:
       url: #
 
 - name: Lisbeth Parraga
-  pic: http://graph.facebook.com/PARRAGALISBETH/picture?width=225
-  position: Lead Marketer
+  pic: http://graph.facebook.com/PARRAGALISBETH/picture?width=225&amp;height=255
+  position: Líder de logística
   social:
     - title: twitter
       url: #
@@ -37,8 +37,8 @@ people:
       url: #
 
 - name: Gabriel Suárez
-  pic: http://graph.facebook.com/gabriel.s.linares.9/picture?width=225
-  position: Lead Developer
+  pic: http://graph.facebook.com/gabriel.s.linares.9/picture?width=225&amp;height=255
+  position: Líder de desarrollo
   social:
     - title: twitter
       url: #
