@@ -861,21 +861,21 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
-
 nav#menu-roles{
 	/*Bordes redondeados*/
 	-webkit-border-radius:10px;/*Para chrome y Safari*/
 	-moz-border-radius:10px;/*Para Firefox*/
 	-o-border-radius:10px;/*Para Opera*/
 	border-radius:10px;/*El estandar por defecto*/
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#CCC));/*Para chrome y Safari*/
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#C0C0C0), to(#000));/*Para chrome y Safari*/
 	/*Degradados*/
-	background-image: -moz-linear-gradient(top center, #FFF, #CCC);/*Para Firefox*/
-	background-image: -o-linear-gradient(top, #FFF, #CCC);/*Para Opera*/
-	background-image: linear-gradient(top, #FFF, #CCC);/*El estandar por defecto*/
+	background-image: -moz-linear-gradient(top center, #C0C0C0, #000);/*Para Firefox*/
+	background-image: -o-linear-gradient(top, #C0C0C0, #000);/*Para Opera*/
+	background-image: linear-gradient(top, #C0C0C0, #000);/*El estandar por defecto*/
 	overflow:hidden;
-	padding:10px;
-	/*width:950px;*/
+	padding:5px;
+	width:590px;
+    margin: auto;
 }
 nav#menu-roles ul{
 	list-style:none;
@@ -895,23 +895,23 @@ nav#menu-roles ul li{
 	margin-right:10px;
 	text-align:center;
 	/*Sombras para texto, los mismos parametros que box-shadow*/
-	text-shadow: 0px 1px 0px #FFF;
+	/*text-shadow: 0px 1px 0px #CCC;*/
 }
 nav#menu-roles ul li:hover{
 	/*Degradado de fondo*/
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to( #E3E3E3));/*Chrome y Safari*/
-	background-image: -moz-linear-gradient(top center, #FFF, #E3E3E3);/*Firefox*/
-	background-image: -o-linear-gradient(top, #FFF, #E3E3E3);/*Opera*/
-	background-image: linear-gradient(top, #FFF, #E3E3E3);/*Estandar por defecto*/
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to( #C0C0C0));/*Chrome y Safari*/
+	background-image: -moz-linear-gradient(top center, #FFF, #C0C0C0);/*Firefox*/
+	background-image: -o-linear-gradient(top, #FFF, #C0C0C0);/*Opera*/
+	background-image: linear-gradient(top, #FFF, #C0C0C0);/*Estandar por defecto*/
 	/*Sombras para bloques o cajas*/
-	-webkit-box-shadow:  1px -1px 0px #999;/*Chrome y Safari*/
-	-moz-box-shadow:  1px -1px 0px #999;/*Firefox*/
-	-o-box-shadow:  1px -1px 0px #999;/*Opera*/
-	box-shadow:  1px -1px 0px #999;/*Estandar por defecto*/
+	-webkit-box-shadow:  1px -1px 0px #000;/*Chrome y Safari*/
+	-moz-box-shadow:  1px -1px 0px #000;/*Firefox*/
+	-o-box-shadow:  1px -1px 0px #000;/*Opera*/
+	box-shadow:  1px -1px 0px #000;/*Estandar por defecto*/
 	border:1px solid #E3E3E3;
 }
 nav#menu-roles ul li a{
-	color:#999;
+	color:#CCC;
 	display:block;
 	padding:10px;
 	text-decoration:none;
