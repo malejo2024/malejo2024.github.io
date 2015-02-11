@@ -1,30 +1,33 @@
-  <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; <a href="https://www.neftaliyagua.co.ve" class="url">{{ site.title }}</a> 2015</span> - <span class="adr"><div class="street-address">URB Diego I Calle 1 Casa 20</div>
-  <span class="locality">Valencia</span>
-, 
-  <span class="region">Carabobo</span>
-, 
-  <span class="postal-code">2003</span>  <span class="country-name">Venezuela</span></span> - <span class="title">Presidente</span> de <span class="org">Coderic, S.A.</span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="#">Políticas de privacidad</a>
-                        </li>
-                        <li><a href="#">Términos de uso</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<span class="copyright">Copyright &copy; <a
+					href="https://www.neftaliyagua.com.ve" class="url">{{
+						site.title }}</a> 2015
+				</span> - <span class="title">Presidente</span> de <span class="org">Coderic,
+					S.A.</span>
+				<address class="adr">
+					<div class="street-address">URB Diego I Calle 1 Casa 20</div>
+					<span class="locality">Valencia</span> , <span class="region">Carabobo</span>
+					, <span class="postal-code">2003</span> <span class="country-name">Venezuela</span>
+				</address>
+
+			</div>
+			<div class="col-md-4">
+				<ul class="list-inline social-buttons">
+					{% for network in site.social %}
+					<li><a href="{{ network.url }}"><i
+							class="fa fa-{{ network.title }}"></i></a></li> {% endfor %}
+				</ul>
+			</div>
+			<div class="col-md-4">
+				<ul class="list-inline quicklinks">
+					<li><a href="#">Políticas de privacidad</a></li>
+					<li><a href="#">Términos de uso</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
