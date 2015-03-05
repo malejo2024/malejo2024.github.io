@@ -913,7 +913,7 @@ nav#menu-roles ul li:hover{
 nav#menu-roles ul li a{
 	color:#CCC;
 	display:block;
-	padding:10px;
+	padding:5px;
 	text-decoration:none;
 	/*Transiciones: Tiempo, Efecto y Propiedades aplicadas*/
 	-webkit-transition: 0.4s linear all;/*Chrome y Safari*/
