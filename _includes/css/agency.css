@@ -871,9 +871,9 @@ nav#menu-roles{
 	background-image: -moz-linear-gradient(top center, #C0C0C0, #000);/*Para Firefox*/
 	background-image: -o-linear-gradient(top, #C0C0C0, #000);/*Para Opera*/
 	background-image: linear-gradient(top, #C0C0C0, #000);/*El estandar por defecto*/
-	overflow:hidden;
-	padding:5px;
-	width:590px;
+	overflow: hidden;
+	padding: 5px;
+	width: 590px;
     	margin: 10px auto;
 }
 nav#menu-roles ul{
