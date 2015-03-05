@@ -862,7 +862,6 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 nav#menu-roles{
-	/*Bordes redondeados*/
 	-webkit-border-radius:10px;/*Para chrome y Safari*/
 	-moz-border-radius:10px;/*Para Firefox*/
 	-o-border-radius:10px;/*Para Opera*/
@@ -874,7 +873,7 @@ nav#menu-roles{
 	background-image: linear-gradient(top, #C0C0C0, #000);/*El estandar por defecto*/
 	overflow:hidden;
 	padding:5px;
-	width:790px;
+	width:590px;
     	margin: 10px auto;
 }
 nav#menu-roles ul{
