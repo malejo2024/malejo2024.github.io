@@ -874,8 +874,8 @@ nav#menu-roles{
 	background-image: linear-gradient(top, #C0C0C0, #000);/*El estandar por defecto*/
 	overflow:hidden;
 	padding:5px;
-	width:690px;
-    margin: 10px auto;
+	width:790px;
+    	margin: 10px auto;
 }
 nav#menu-roles ul{
 	list-style:none;
@@ -883,14 +883,13 @@ nav#menu-roles ul{
 	padding:0;
 }
 nav#menu-roles ul li{
-	/*Bordes redondeados*/
 	-webkit-border-radius:5px;/*Chrome y Safari*/
 	-moz-border-radius:5px;/*Firefox*/
 	-o-border-radius:5px;/*Opera*/
 	border-radius:5px;/*Estandar por defecto*/
 	float:left;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:16px;
+	font-size:14px;
 	font-weight:bold;
 	margin-right:5px;
 	text-align:center;
