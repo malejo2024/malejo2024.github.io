@@ -5,17 +5,9 @@ permalink: /404.html
 
 <div class="home">
 
-  <h1>Error 404</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">Subscribir <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  <h1>Error 404 - No se encuentra la página solicitada</h1>
+  <p>Lamento mucho que esto ocurra, esto no debe pasar, de alguna manera usted ha solicitado en mi portal personal una página que no existe, bien porque nunca ha existido o porque por alguna razón la he tenido que borrar, en breve lo redirigiré a la página principal, y me disculpo por el inconveniente causado.</p>
 </div>
+<script type="text/javascript">
+  setTimeout(function(){ window.location='/' }, 6000);
+</script>
