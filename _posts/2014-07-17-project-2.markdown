@@ -10,7 +10,7 @@ website: http://admin.sistravel.net
 alt: image-alt
 project-date: April 2014
 client: Coderic, S.A.
-category: Web Development
+category: Desarrollo Web
 description: Sistema de administración de reservas en línea para hoteles, posadas y agencias de viajes.
 
 ---
