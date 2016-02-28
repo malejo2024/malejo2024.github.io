@@ -1,6 +1,6 @@
 ---
-title: Portal Viajando a Los Roques, C.A.
-subtitle: Desarrollo Web, Sistema en Línea, Posicionamiento
+title: Viajando a Los Roques, C.A.
+subtitle: Desarrollo del Portal
 layout: default
 modal-id: 1
 date: 2016-3-3
