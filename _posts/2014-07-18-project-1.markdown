@@ -10,7 +10,7 @@ website: http://www.viajandoalosroques.com
 alt: image-alt
 project-date: April 2014
 client: Viajando a Los Roques, C.A.
-category: Web Development
+category: Desarrollo Web
 description: Desarrollo del Portal Responsive, para 5 versiones diferentes, multilenguaje, con sistema de cotizaciones en línea y reservas, sistema de administración de contenidos hecho a medida, posicionamiento en buscadores.
 
 ---
