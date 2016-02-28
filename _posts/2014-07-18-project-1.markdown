@@ -1,16 +1,16 @@
 ---
-title: Viajando a Los Roques, C.A.
+title: Viajando a Los Roques
 subtitle: Desarrollo del Portal
 layout: default
 modal-id: 1
-date: 2016-2-3
+date: 2014-07-17
 img: http://placehold.it/600x450
 thumbnail: http://placehold.it/400x300
 website: http://www.viajandoalosroques.com
 alt: image-alt
 project-date: April 2014
 client: Viajando a Los Roques, C.A.
-category: Web development
+category: Web Development
 description: Desarrollo del Portal Responsive, para 5 versiones diferentes, multilenguaje, con sistema de cotizaciones en línea y reservas, sistema de administración de contenidos hecho a medida, posicionamiento en buscadores.
 
 ---
