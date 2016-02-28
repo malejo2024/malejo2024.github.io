@@ -13,9 +13,14 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
+	
+ 
+luis_azuaje.jpg	
+ 
+lisbeth_parraga.jpg
 people:
 - name: Omar Yagua
-  pic: https://graph.facebook.com/Alfahman/picture?width=225&amp;height=255
+  pic: /img/omar_yagua.jpg
   position: Líder de planificación
   social:
     - title: twitter
@@ -26,7 +31,7 @@ people:
       url: #
 
 - name: Lisbeth Parraga
-  pic: https://graph.facebook.com/PARRAGALISBETH/picture?width=225&amp;height=255
+  pic: /img/lisbeth_parraga.jpg
   position: Líder de logística
   social:
     - title: twitter
@@ -36,8 +41,8 @@ people:
     - title: linkedin
       url: #
 
-- name: Gabriel Suárez
-  pic: https://graph.facebook.com/gabriel.s.linares.9/picture?width=225&amp;height=255
+- name: Luis Azuaje
+  pic: /img/luis_azuaje.jpg
   position: Líder de desarrollo
   social:
     - title: twitter
