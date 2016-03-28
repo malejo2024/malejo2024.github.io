@@ -14,6 +14,34 @@
     <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
 
     <!-- Custom Theme JavaScript -->
+  <script type="text/javascript" src="//cdn.timekit.io/booking-js/v1/booking.min.js" defer></script>
+  <script type="text/javascript">
+    window.timekitBookingConfig = {
+      name: 'Neftalí Yagua',
+      email: 'neftali.yagua@gmail.com',
+      apiToken: '9iUqPnBe0wrsLSli7hhxZ3DWUFI282Gc',
+      calendar: '21243c02-3bdd-40d9-b28e-f77de161dd8a',
+      avatar: 'https://lh3.googleusercontent.com/-LnzSBO7iqDs/AAAAAAAAAAI/AAAAAAAAEus/OZ46XOJiGXU/photo.jpg',
+      timekitFindTime: {
+        filters: {
+          or: [
+            {
+              specific_time: {
+                start: '00',
+                end: '12'
+              }
+            },
+            {
+              specific_time: {
+                start: '13',
+                end: '24'
+              }
+            }
+          ]
+        }
+      }
+    }
+  </script>
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
 
 		<script type="text/javascript" src="/js/three.min.js"></script>
