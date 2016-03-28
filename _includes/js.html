@@ -26,6 +26,56 @@
         fullCalendar: {
           lang: 'es'
         },
+        localization: {
+          strings: {
+            submitText: 'Do it!',
+            successMessageTitle: 'Awesome',
+            successMessageBody: 'You should check your email (%s) now',
+            timezoneHelperLoading: 'Initializing..',
+            timezoneHelperDifferent: "You're %s hours %s of %s, brother",
+            timezoneHelperSame: "You're in the same place as %s",
+          }
+        },
+        bookingFields: {
+	    name: {
+	      placeholder: 'Nombres y apellidos',
+	      prefilled: false,
+	      locked: false
+	    },
+	    email: {
+	      placeholder: 'E-mail',
+	      prefilled: false,
+	      locked: false
+	    },
+	    comment: {
+	      enabled: true,
+	      placeholder: 'Comentarios',
+	      prefilled: false,
+	      required: false,
+	      locked: false
+	    },
+	    phone: {
+	      enabled: true,
+	      placeholder: 'Teléfonos',
+	      prefilled: false,
+	      required: false,
+	      locked: false
+	    },
+	    voip: {
+	      enabled: true,
+	      placeholder: 'Skype',
+	      prefilled: false,
+	      required: false,
+	      locked: false
+	    },
+	    location: {
+	      enabled: true,
+	      placeholder: 'Location',
+	      prefilled: false,
+	      required: true,
+	      locked: false
+	    }
+        },
       timekitFindTime: {
         filters: {
           or: [
