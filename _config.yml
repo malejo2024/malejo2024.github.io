@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Neftalí Yagua
-email: neftali.yagua@gmail.com
+email: despacho@neftaliyagua.com.ve
 description: "Pero Noé halló gracia ante los ojos de Jehová. Genesis 6:8 Presidente de Coderic, S.A. y Pastor de Iglesia LBS Ciudad Alianza."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -52,7 +52,7 @@ social:
   - title: twitter
     url: https://twitter.com/neftaliyagua
   - title: facebook
-    url: https://fb.com/Neftali.Noe.Yagua
+    url: https://facebook.com/NeftaliYagua
   - title: google-plus
     url: https://plus.google.com/+NeftalíYagua
   - title: linkedin
@@ -68,8 +68,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: URB Diego I Calle 1 Casa 20
-  - line: Valencia - Carabobo, 2003, Venezuela
+  - line: URB Prados del Norte, Calle C Casa C-35
+  - line: San Felipe - Yaracuy, 3210, Venezuela
 
 # Build settings
 markdown: kramdown
