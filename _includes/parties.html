@@ -11,14 +11,16 @@
                 {% for member in site.parties %}
                 <div class="col-sm-4">
                     <div class="party-member contact met co-worker">
+                      <a href="#">
                         <img src="{{ member.pic }}" title="{{ member.name }}" alt="{{ member.name }}" class="img-responsive img-circle" alt="">
-                        <h4 rel="friend" class="text-center">{{ member.name }}</h4>
+                      </a>
+                        <h4 rel="friend" class="text-center"><a href="#">{{ member.name }}</a></h4>
                         <p class="text-muted text-center">{{ member.position }}</p>
-                        <ul class="list-inline social-buttons">
+                        <!--ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                             {% endfor %}
-                        </ul>
+                        </ul-->
                     </div>
                 </div>
                 {% endfor %}
