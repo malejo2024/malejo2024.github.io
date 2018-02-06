@@ -69,6 +69,16 @@ parties:
     - title: linkedin
       url: #
 
+- name: Democracia Digital
+  pic: /img/partidos/DemocraciaDigital.jpg
+  position: Democracia Directa
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 - name: Partido Pirata
   pic: /img/partidos/PartidoPirata.jpg
   position: Democracia Directa
