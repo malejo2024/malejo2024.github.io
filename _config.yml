@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Neftalí Yagua
 email: despacho@neftaliyagua.com.ve
-description: "Ingeniero de Software, Presidente de Coderic, S.A. Productor de aplicaciones informáticas. Autor de los libros El Grano de Mostaza y Mientras Espero."
+description: "Ingeniero de Software, Productor de aplicaciones informáticas. Autor de los libros El Grano de Mostaza y La Espada de la Justicia, Candidato para la Gestión de la República Bolivariana de Venezuela ante las Elecciones Presidenciales de Venezuela 2019-2025"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -120,10 +120,6 @@ social:
   - title: stack-overflow
     url: http://stackoverflow.com/users/2167544/neftali-yagua
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: URB Los Caobos, Av Los Cedros Esquina Av Girasol
-  - line: Quinta Coderic 57-21 Valencia, Carabobo, 2001, Venezuela
 
 # Build settings
 markdown: kramdown
