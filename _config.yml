@@ -20,7 +20,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: stack-overflow
       url: #
@@ -31,7 +31,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: linkedin
       url: #
@@ -42,7 +42,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: google-plus
       url: #
@@ -53,7 +53,7 @@ parties:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: stack-overflow
       url: #
@@ -64,7 +64,7 @@ parties:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: linkedin
       url: #
@@ -75,7 +75,7 @@ parties:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: google-plus
       url: #
@@ -85,7 +85,7 @@ parties:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: google-plus
       url: #
@@ -96,7 +96,7 @@ parties:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook-f
       url: #
     - title: google-plus
       url: #
@@ -107,7 +107,7 @@ social:
     url: https://es.wikipedia.org/wiki/Usuario:NeftaliYagua/Taller
   - title: twitter
     url: https://twitter.com/neftaliyagua
-  - title: facebook
+  - title: facebook-f
     url: https://facebook.com/NeftaliYagua
   - title: google-plus
     url: https://plus.google.com/+NeftalíYagua
