@@ -1,0 +1,33 @@
+﻿<!-- party Section -->
+    <section id="party" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Partidos que me apoyan</h2>
+                    <h3 class="section-subheading text-muted">A medida que el desafío crece, la necesidad de un trabajo en equipo aumenta.</h3>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.parties %}
+                <div class="col-sm-4">
+                    <div class="party-member contact met co-worker">
+                        <img src="{{ member.pic }}" title="{{ member.name }}" alt="{{ member.name }}" class="img-responsive img-circle" alt="">
+                        <h4 rel="friend">{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">
+                        Al pasar de los años uno de los elementos más representativos que pude aprender es acerca de la necesidad de un equipo de trabajo, ningún hombre es una isla dijo el gran John Donne, entender esto es fundamental para crecer en cualquier ámbito laboral, es necesario comprender que de forma natural tenemos la necesidad de potenciar nuestras capacidades de forma sinérgica con un equipo de trabajo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
