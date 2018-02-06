@@ -103,6 +103,8 @@ parties:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: wikipedia-w
+    url: https://es.wikipedia.org/wiki/Usuario:NeftaliYagua/Taller
   - title: twitter
     url: https://twitter.com/neftaliyagua
   - title: facebook
