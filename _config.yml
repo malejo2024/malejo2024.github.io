@@ -1,4 +1,4 @@
-url: http://neftaliyagua.com.ve
+﻿url: http://neftaliyagua.com.ve
 baseurl: 
 
 # Site settings
@@ -39,6 +39,50 @@ people:
 - name: Luis Azuaje
   pic: /img/luis_azuaje.jpg
   position: Líder de desarrollo
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+parties:
+- name: El Partido De La Red
+  pic: /img/partidos/ElPartidoDeLaRed.jpg
+  position: Democracia Líquida
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Democracia en Red
+  pic: /img/partidos/DemocraciaEnRed.jpg
+  position: Democracia Directa
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Partido Pirata
+  pic: /img/partidos/PartidoPirata.jpg
+  position: Democracia Directa
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Unánimes
+  pic: /img/partidos/Unanimes.jpg
+  position: Democracia Líquida
   social:
     - title: twitter
       url: #
