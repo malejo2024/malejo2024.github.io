@@ -1,5 +1,5 @@
-﻿url: http://neftaliyagua.com.ve
-baseurl: 
+﻿url: https://neftaliyagua.com.ve
+baseurl: /
 
 # Site settings
 title: Neftalí Yagua
@@ -114,13 +114,13 @@ social:
   - title: linkedin-in
     url: https://ve.linkedin.com/in/neftaliyagua
   - title: instagram
-    url: http://instagram.com/neftaliyagua
+    url: https://instagram.com/neftaliyagua
   - title: bitbucket 
-    url: http://bitbucket.org/neftaliyagua
+    url: https://bitbucket.org/neftaliyagua
   - title: github
-    url: http://github.com/neftaliyagua
+    url: https://github.com/neftaliyagua
   - title: stack-overflow
-    url: http://stackoverflow.com/users/2167544/neftali-yagua
+    url: https://stackoverflow.com/users/2167544/neftali-yagua
 
 
 # Build settings
