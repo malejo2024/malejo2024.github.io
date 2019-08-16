@@ -9,24 +9,24 @@
 		<div class="row">
 			<div class="col-lg-12">
 				
-				<form name="sentMessage" novalidate netlify>
+				<form name="sentMessage" novalidate method="POST" data-netlify="true">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
 								<input type="text" class="form-control"
-									placeholder="Su nombre *" id="name" required
+									placeholder="Su nombre *" id="name" name="name" required
 									data-validation-required-message="Por favor ingrese su nombre.">
 								<p class="help-block text-danger"></p>
 							</div>
 							<div class="form-group">
 								<input type="email" class="form-control"
-									placeholder="Su correo *" id="email" required
+									placeholder="Su correo *" id="email" name="email" required
 									data-validation-required-message="Por favor, proporcione un email para contactarle.">
 								<p class="help-block text-danger"></p>
 							</div>
 							<div class="form-group">
 								<input type="tel" class="form-control"
-									placeholder="Su teléfono *" id="phone" required
+									placeholder="Su teléfono *" id="phone" name="phone" required
 									data-validation-required-message="Por favor, proporcione un teléfono para contactarle.">
 								<p class="help-block text-danger"></p>
 							</div>
@@ -34,7 +34,7 @@
 						<div class="col-md-6">
 							<div class="form-group">
 								<textarea class="form-control" placeholder="Su mensaje *"
-									id="message" required
+									id="message" name="message" required
 									data-validation-required-message="Por favor, escriba su mensaje."></textarea>
 								<p class="help-block text-danger"></p>
 							</div>
