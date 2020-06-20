@@ -1,4 +1,4 @@
-﻿url: https://neftaliyagua.coderic.net
+﻿url: https://neftaliyagua.github.io
 baseurl: 
 
 # Site settings
@@ -48,8 +48,8 @@ people:
       url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: wikipedia-w
-    url: https://es.wikipedia.org/wiki/Neftal%C3%AD_Yagua
+#  - title: wikipedia-w
+#    url: https://es.wikipedia.org/wiki/Neftal%C3%AD_Yagua
   - title: twitter
     url: https://twitter.com/neftaliyagua
   - title: facebook-f
