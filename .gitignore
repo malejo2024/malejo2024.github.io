@@ -38,3 +38,5 @@ Icon
 .settings
 .project
 .buildpath
+.jekyll-cache
+
