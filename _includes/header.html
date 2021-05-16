@@ -1,39 +1,11 @@
-<!--
-
-  <PageMap>
-     <DataObject type="document">
-        <Attribute name="title">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</Attribute>
-        <Attribute name="author">Neftalí Yagua</Attribute>
-        <Attribute name="description">{{ site.description }}</Attribute>
-        <Attribute name="page_count">1</Attribute>
-        <Attribute name="rating">4.5</Attribute>
-        <Attribute name="last_update">07/02/2018</Attribute>
-     </DataObject>
-     <DataObject type="thumbnail">
-        <Attribute name="src" value="https://neftaliyagua.com/img/Neftali_Yagua.jpg" />
-        <Attribute name="width" value="600" />
-        <Attribute name="height" value="600" />
-     </DataObject>
-    <DataObject type="action">
-      <Attribute name="label" value="Vitae"/>
-      <Attribute name="url" value="https://neftaliyagua.com/cv.pdf"/>
-      <Attribute name="class" value="descargar"/>
-    </DataObject>
-  </PageMap>
--->
-<!-- Header -->
     <header>
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Bienvenidos a mi despacho!</div>
                 <div class="intro-heading">{{site.title}}</div>
-		<a class="btn btn-xl" href="#profile" title="Conózca más acerca de mi.">Autor</a>
-		<a href="https://g.co/kgs/iP6S8C" class="page-scroll btn btn-xl" title="Si necsita más información encuéntrela en internet">Encontrar más</a>
+                <a class="btn btn-xl" href="#profile" title="Conózca más acerca de mi.">Autor</a>
+                <a class="btn btn-xl" href="#profile" title="Conózca más acerca de mi.">Desarrollador</a>
+                <a href="https://g.co/kgs/eKawD8" class="page-scroll btn btn-xl" title="Si necesita más información encuéntrela en internet">Encontrar más</a>
             </div>
         </div>
     </header>
-	<!-- 
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
-    -->
