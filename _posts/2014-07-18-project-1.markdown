@@ -4,8 +4,8 @@ subtitle: Desarrollo del Portal
 layout: default
 modal-id: 1
 date: 2014-07-17
-img: https://placehold.it/600x450
-thumbnail: https://placehold.it/400x300
+img: https://picsum.photos/600/450
+thumbnail: https://picsum.photos/400/300
 website: http://www.viajandoalosroques.com
 alt: image-alt
 project-date: April 2014

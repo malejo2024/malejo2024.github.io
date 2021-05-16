@@ -4,13 +4,13 @@ subtitle: Desarrollo Web
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: https://placehold.it/600x450
-thumbnail: https://placehold.it/400x300
-website: http://www.iglesiacuadrangular.com.ve
+img: https://picsum.photos/600/450
+thumbnail: https://picsum.photos/400/300
+website: http://www.laiglesiacuadrangular.com
 alt: image-alt
 project-date: April 2014
 client: Federación Cuadrangular de Venezuela
-category: Web Development
+category: Desarrollo Web
 description: Portal comunitario para las 250 Iglesias pertenecientes a la federación cuadrangular.
 
 ---

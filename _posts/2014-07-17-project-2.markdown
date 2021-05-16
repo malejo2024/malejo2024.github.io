@@ -4,8 +4,8 @@ subtitle: Sistema de Reservas en línea
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: https://placehold.it/600x450
-thumbnail: https://placehold.it/400x300
+img: https://picsum.photos/600/450
+thumbnail: https://picsum.photos/400/300
 website: http://admin.sistravel.net
 alt: image-alt
 project-date: April 2014
