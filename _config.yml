@@ -50,23 +50,23 @@ people:
 social:
 #  - title: wikipedia-w
 #    url: https://es.wikipedia.org/wiki/Neftal%C3%AD_Yagua
-  - title: twitter
+  - fa-icon: fab fa-twitter
     url: https://twitter.com/neftaliyagua
-  - title: facebook-f
+  - fa-icon: fab fa-facebook-f
     url: https://facebook.com/NeftaliYagua
-  - title: google-plus-g
+  - fa-icon: fab fa-google-plus-g
     url: https://g.co/kgs/66mKR6
-  - title: linkedin-in
+  - fa-icon: fab fa-linkedin-in
     url: https://ve.linkedin.com/in/neftaliyagua
-  - title: instagram
+  - fa-icon: fab fa-instagram
     url: https://instagram.com/neftaliyagua
-  - title: bitbucket 
+  - fa-icon: fab fa-bitbucket 
     url: https://bitbucket.org/neftaliyagua
-  - title: github
+  - fa-icon: fab fa-github
     url: https://github.com/neftaliyagua
-  - title: stack-overflow
+  - fa-icon: fab fa-stack-overflow
     url: https://stackoverflow.com/users/2167544/neftali-yagua
-  - title: key
+  - fa-icon: fas fa-key
     url: https://neftaliyagua.com/id_rsa.pub
 # Build settings
 markdown: kramdown
