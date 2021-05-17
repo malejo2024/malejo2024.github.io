@@ -1,16 +1,16 @@
 ---
-title: SISTravel
-subtitle: Sistema de Reservas en línea
+title: Ciudad Alianza
+subtitle: Portal de la Comunidad de Ciudad Alianza
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: https://picsum.photos/600/450
-thumbnail: https://picsum.photos/400/300
-website: http://admin.sistravel.net
+img: /img/screenshots/ciudad-alianza.png
+thumbnail: /img/screenshots/ciudad-alianza.png
+website: https://ciudadalianza.herokuapp.com
 alt: image-alt
 project-date: April 2014
-client: Coderic, S.A.
+client: Alcaldía de Guacara
 category: Desarrollo Web
-description: Sistema de administración de reservas en línea para hoteles, posadas y agencias de viajes.
+description: Portal para la comunidad de Ciudad Alianza
 
 ---
