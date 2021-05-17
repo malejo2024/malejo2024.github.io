@@ -3,10 +3,10 @@ title: Viajando a Los Roques
 subtitle: Desarrollo del Portal
 layout: default
 modal-id: 1
-date: 2014-07-17
-img: https://picsum.photos/600/450
-thumbnail: https://picsum.photos/400/300
-website: http://www.viajandoalosroques.com
+date: 2014-07-170
+img: /img/screenshots/viajandoalosroques.png
+thumbnail: /img/screenshots/viajandoalosroques.png
+website: https://viajandoalosroques.com
 alt: image-alt
 project-date: April 2014
 client: Viajando a Los Roques, C.A.
