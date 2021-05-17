@@ -3,7 +3,7 @@ title: Viajando a Los Roques
 subtitle: Desarrollo del Portal
 layout: default
 modal-id: 1
-date: 2014-07-170
+date: 2014-07-17
 img: /img/screenshots/viajandoalosroques.png
 thumbnail: /img/screenshots/viajandoalosroques.png
 website: https://viajandoalosroques.com
