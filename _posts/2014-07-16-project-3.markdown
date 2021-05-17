@@ -1,16 +1,16 @@
 ---
-title: Iglesia Cristiana Cuadrangular
+title: Coderic
 subtitle: Desarrollo Web
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: https://picsum.photos/600/450
-thumbnail: https://picsum.photos/400/300
-website: http://www.laiglesiacuadrangular.com
+img: /img/screenshots/coderic.png
+thumbnail: /img/screenshots/coderic.png
+website: https://coderic.net
 alt: image-alt
 project-date: April 2014
-client: Federación Cuadrangular de Venezuela
+client: Coderic, S.A.
 category: Desarrollo Web
-description: Portal comunitario para las 250 Iglesias pertenecientes a la federación cuadrangular.
+description: Portal para Coderic
 
 ---
