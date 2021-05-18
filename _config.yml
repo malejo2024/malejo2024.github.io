@@ -70,7 +70,7 @@ social:
     url: https://neftaliyagua.com/id_rsa.pub
     download: id_rsa.pub
   - fa-icon: true
-    url: https://neftaliyagua.com/public.key
+    url: https://neftaliyagua.com/public.pgp
     download: true
 markdown: kramdown
 permalink: pretty
