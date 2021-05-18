@@ -68,7 +68,9 @@ social:
     url: https://stackoverflow.com/users/2167544/neftali-yagua
   - fa-icon: fas fa-terminal
     url: https://neftaliyagua.com/id_rsa.pub
-  - fa-icon: fas fa-key
+    download: id_rsa.pub
+  - fa-icon: true
     url: https://neftaliyagua.com/public.key
+    download: true
 markdown: kramdown
 permalink: pretty
