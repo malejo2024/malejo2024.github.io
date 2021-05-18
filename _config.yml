@@ -50,26 +50,36 @@ people:
 social:
 #  - title: wikipedia-w
 #    url: https://es.wikipedia.org/wiki/Neftal%C3%AD_Yagua
-  - fa-icon: fab fa-twitter
+  - title: "Twitter"
+    fa-icon: fab fa-twitter
     url: https://twitter.com/neftaliyagua
-  - fa-icon: fab fa-facebook-f
+  - title: "Facebook"
+    fa-icon: fab fa-facebook-f
     url: https://facebook.com/NeftaliYagua
-  - fa-icon: fab fa-google-plus-g
+  - title: "Google"
+    fa-icon: fab fa-google
     url: https://g.co/kgs/66mKR6
-  - fa-icon: fab fa-linkedin-in
+  - title: "Linkedin"
+    fa-icon: fab fa-linkedin-in
     url: https://ve.linkedin.com/in/neftaliyagua
-  - fa-icon: fab fa-instagram
+  - title: "Instagram"
+    fa-icon: fab fa-instagram
     url: https://instagram.com/neftaliyagua
-  - fa-icon: fab fa-bitbucket 
+  - title: "Bitbucket"
+    fa-icon: fab fa-bitbucket 
     url: https://bitbucket.org/neftaliyagua
-  - fa-icon: fab fa-github
+  - title: "Github"
+    fa-icon: fab fa-github
     url: https://github.com/neftaliyagua
-  - fa-icon: fab fa-stack-overflow
+  - title: "StackOverFlow"
+    fa-icon: fab fa-stack-overflow
     url: https://stackoverflow.com/users/2167544/neftali-yagua
-  - fa-icon: fas fa-terminal
+  - title: "Llave pública RSA"
+    fa-icon: fas fa-terminal
     url: https://neftaliyagua.com/id_rsa.pub
     download: true
-  - fa-icon: fas fa-key
+  - title: "Llave Pública PGP"
+    fa-icon: fas fa-key
     url: https://neftaliyagua.com/public.pgp
     download: true
 markdown: kramdown

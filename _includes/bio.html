@@ -20,7 +20,7 @@ Nací el 7 de diciembre de 1984 en el Hospital Central "Plácido Daniel Rodrigue
 
 				<ul class="list-inline social-buttons text-center">
 					{% for network in site.social %}
-					<li><a href="{{ network.url }}"{% if network.download %} download{% endif %}><i class="{{ network.fa-icon }}"></i></a></li>
+					<li><a href="{{ network.url }}" title="{{ network.title }}"{% if network.download %} download{% endif %}><i class="{{ network.fa-icon }}"></i></a></li>
 					{% endfor %}
 				</ul>
         <!--social end--> 

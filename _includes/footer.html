@@ -9,7 +9,7 @@
 			<div class="col-md-6">
 				<ul class="list-inline social-buttons">
 					{% for network in site.social %}
-					<li><a href="{{ network.url }}"{% if network.download %} download{% endif %}><i class="{{ network.fa-icon }}"></i></a></li>
+					<li><a href="{{ network.url }}" title="{{ network.title }}"{% if network.download %} download{% endif %}><i class="{{ network.fa-icon }}"></i></a></li>
 					{% endfor %}
 				</ul>
 				<ul class="list-inline quicklinks">
