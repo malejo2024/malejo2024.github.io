@@ -80,7 +80,7 @@ social:
     download: true
   - title: "Llave Pública PGP"
     fa-icon: fas fa-key
-    url: https://neftaliyagua.com/public.pgp
+    url: https://keys.openpgp.org/vks/v1/by-fingerprint/56634F78A44B8DFDED2EDEFF5A284EC3CBFE491A
     download: true
 markdown: kramdown
 permalink: pretty
