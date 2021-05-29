@@ -484,7 +484,7 @@ function import_gpg_key {
 }
 
 function setup_repository {
-    local repo_path="/etc/apt/sources.list.d/neftaliyagua-public-packages.list"
+    local repo_path="/etc/apt/sources.list.d/neftaliyagua-packages.list"
     check_fetch_config
 
     local text="Installing 'neftaliyagua-public/packages' repository via apt ..."
