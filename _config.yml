@@ -1,8 +1,8 @@
-url: https://neftaliyagua.com
+url: https://malejo2024.github.io
 baseurl: 
 
 # Site settings
-title: Neftalí Yagua
+title: Manuel Molano
 email: despacho@neftaliyagua.com
 description: "Ingeniero de Software, Productor de aplicaciones informáticas. Autor de los libros El Grano de Mostaza y La Espada de la Justicia. Presidente de Coderic, S.A. Administrador de Servidores en Sunagro."
 
@@ -14,7 +14,7 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Omar Yagua
+- name: Manuel Molano
   pic: /img/omar_yagua.jpg
   position: Líder de planificación
   social:
